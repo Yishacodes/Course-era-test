@@ -1,0 +1,6 @@
+body{color: blue;
+}
+a:link,a:visited{background-color: orange;
+	text-align:center;
+}
+a:hover,a:active{cursor: pointer;}
