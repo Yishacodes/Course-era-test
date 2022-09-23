@@ -1,6 +1,6 @@
-body{color: blue;
+body{ background-color: burlywood;
+	font-size: 16px;
+	color: darkred;
+	font-family: sans-serif;
 }
-a:link,a:visited{background-color: orange;
-	text-align:center;
-}
-a:hover,a:active{cursor: pointer;}
+h1{ color: blue;}
